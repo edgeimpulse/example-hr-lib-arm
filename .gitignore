@@ -33,3 +33,9 @@
 
 build
 .cache
+
+# Exports
+edge-impulse-sdk
+model-parameters
+tflite-model
+README-lib.md
