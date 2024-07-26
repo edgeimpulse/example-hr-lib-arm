@@ -1,5 +1,5 @@
 # example-hr-lib-arm
-Example of building SDK with hr library
+Example of building SDK with hr library.  Unzip the exported contents into the root of this repo to build.
 
 # Key changes from example-standalone-*
 - You must define macro EI_CLASSIFIER_HR_LIB=1
